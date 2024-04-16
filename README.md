@@ -1,5 +1,5 @@
 # Wildfires-Angola
-Code for the project "Largest Wildfires in Angola: Correlation of vegetation and meteorological variables with wildfire intensity", led by Karapetian et al., during the Climatematch Summer School (2023).
+Code for the project "Largest Wildfires in Angola: Correlation of vegetation and meteorological variables with wildfire intensity", led by Karapetian et al., during the Climatematch Summer School (2023). Written by Agnessa Karapetian, Kamil Vlček, Caroline Temporão, Hatice Büşra and Sedem Buabassah. 
 
 # NDVI_DNBR_Micropublication.ipynb
 
