@@ -1,7 +1,6 @@
 # Wildfires-Angola
 Code for the project "Largest Wildfires in Angola: Correlation of vegetation and meteorological variables with wildfire intensity", led by Karapetian et al. during the Climatematch Summer School (2023). Written by Agnessa Karapetian, Kamil Vlček, Caroline Temporão, Hatice Büşra and Sedem Buabassah. 
 
-
 # NDVI_DNBR_Micropublication.ipynb
 
 This code uses the Globfire (Artés et al., 2019) and MODIS Surface Reflectance 8-Day product (Vermote, 2021) data to calculate the NDVI and dNBR for the largest fires of Angola in 2020.
